@@ -139,6 +139,8 @@ struct hd_geometry {
 	unsigned char sectors;
 	unsigned short cylinders;
 	unsigned long start;
+	printf("Hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+	printf("Hello!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 };
 #endif
 
